@@ -2,15 +2,15 @@
 <h1>
 hi im mrkhur
 </h1>
-<h1>
+<b1>
 i am do AusHack
 
 
-<h1>
+<b1>
 proud australian
 
 
-<h1>
+<b1>
 am java person
 
 
@@ -27,7 +27,7 @@ am java person
 
 
 
-<h1>
+<b1>
 Child rap- enthusiast
 
-</h1>
+</b1>
