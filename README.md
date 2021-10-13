@@ -6,11 +6,11 @@ hi im mrkhur
 i am do AusHack
 
 
-<b1>
+</b1>
 proud australian
 
 
-<b1>
+</b1>
 am java person
 
 
@@ -27,7 +27,7 @@ am java person
 
 
 
-<b1>
+</b1>
 Child rap- enthusiast
 
 </b1>
