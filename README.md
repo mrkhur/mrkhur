@@ -6,28 +6,4 @@ hi im mrkhur
 i am do AusHack
 
 
-</b1>
-proud australian
 
-
-</b1>
-am java person
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</b1>
-Child rap- enthusiast
-
-</b1>
