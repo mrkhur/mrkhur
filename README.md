@@ -2,7 +2,7 @@
 <h1>
 hi im mrkhur
 </h1>
-</h1>
+<h1>
 i am do AusHack
 
 
