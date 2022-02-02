@@ -3,7 +3,7 @@
 hi im mrkhur
 </h1>
 <b1>
-i am do AusHack
+i make funny code
 
 
 
